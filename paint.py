@@ -1,8 +1,6 @@
 import pygame as pg
 import sys
 import random
-
-#
 # увеличиваем глубину рекурсий
 sys.setrecursionlimit(6000000)
 # цвета
